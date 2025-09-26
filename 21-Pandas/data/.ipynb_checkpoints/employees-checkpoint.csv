@@ -1,0 +1,40 @@
+ci,first_name,last_name,dept_name,title,salary
+1708913678,Daniela,Rubiales,Finanzas,Director Financiero,4600
+1708913678,Daniela,Rubiales,Finanzas,Director Financiero,1200
+1708913678,Daniela,Rubiales,Finanzas,Director Financiero,3500
+1702384512,Carlos,Lozano,Finanzas,Director Comercial,4200
+1702384512,Carlos,Lozano,Finanzas,Director Ventas,4200
+1702384512,Carlos,Lozano,Ventas,Director Comercial,4200
+1702384512,Carlos,Lozano,Ventas,Director Ventas,4200
+0609674321,Lucia,Martinez,Finanzas,Auxiliar Contable,1350
+0609674321,Lucia,Martinez,Finanzas,Auxiliar Contable,1200
+0601247839,Diego,Paredes,Finanzas,Analista Financiero,2100
+1709846732,Sofia,Mendoza,Marketing,Analista de Publicidad,1650
+1709846732,Sofia,Mendoza,Marketing,Ejecutivo de Ventas,1650
+1709846732,Sofia,Mendoza,Ventas,Analista de Publicidad,1650
+1709846732,Sofia,Mendoza,Ventas,Ejecutivo de Ventas,1650
+1709846732,Sofia,Mendoza,Marketing,Analista de Publicidad,2300
+1709846732,Sofia,Mendoza,Marketing,Ejecutivo de Ventas,2300
+1709846732,Sofia,Mendoza,Ventas,Analista de Publicidad,2300
+1709846732,Sofia,Mendoza,Ventas,Ejecutivo de Ventas,2300
+1702389671,Marcos,Gomez,Marketing,Director de Marketing,4000
+0602876543,Natalia,Salinas,Atención al Cliente,Supervisor de Atencion al Cliente,1900
+0602876543,Natalia,Salinas,Atención al Cliente,Supervisor de Atencion al Cliente,1700
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Jr,1250
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Ssr,1250
+1709654871,Javier,Herrera,Data Analytics,Data Scientist Ssr,1250
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Jr,1550
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Ssr,1550
+1709654871,Javier,Herrera,Data Analytics,Data Scientist Ssr,1550
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Jr,2200
+1709654871,Javier,Herrera,Data Analytics,Data Analyst Ssr,2200
+1709654871,Javier,Herrera,Data Analytics,Data Scientist Ssr,2200
+0603847629,Elena,Navarro,Tecnología,Desarrollador Front-End,2250
+0603847629,Elena,Navarro,Tecnología,Desarrollador Full Stack,2250
+0603847629,Elena,Navarro,Tecnología,Desarrollador Front-End,2700
+0603847629,Elena,Navarro,Tecnología,Desarrollador Full Stack,2700
+1704758392,Ivan,Zamora,Seguridad,Director de Seguridad,4400
+0602948573,Lorena,Muñoz,Data Analytics,Data Scientist Sr,2600
+0602948573,Lorena,Muñoz,Data Analytics,Director de Data Analytics,2600
+0602948573,Lorena,Muñoz,Data Analytics,Data Scientist Sr,4700
+0602948573,Lorena,Muñoz,Data Analytics,Director de Data Analytics,4700
