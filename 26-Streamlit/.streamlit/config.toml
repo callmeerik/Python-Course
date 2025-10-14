@@ -1,0 +1,17 @@
+[theme]
+base="dark"                # 'light' or 'dark'
+primaryColor="#0b7577ff"     # Main color (buttons, sliders, etc.)
+backgroundColor="#000a1eff"  # Main background color
+secondaryBackgroundColor="#262730"  # Background color for panels or containers
+textColor="#FAFAFA"        # Text color
+
+[server]
+port=8501                  # Port where the app runs
+headless=true              # Prevents the browser from opening automatically
+enableCORS=false           # Allows external API requests (useful for APIs)
+
+[client]
+toolbarMode="auto"         # Can be 'minimal', 'viewer', 'developer', or 'auto'
+
+[logger]
+level="info"               # Options: debug | info | warning | error

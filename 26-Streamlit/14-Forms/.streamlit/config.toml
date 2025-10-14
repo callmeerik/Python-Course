@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#228B22"
+
+[theme.sidebar]
+primaryColor="#b8860b"
+backgroundColor="#17272dff"

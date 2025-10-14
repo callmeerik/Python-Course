@@ -1,0 +1,25 @@
+The Relational Database Model
+1. Introduction
+The relational database model is one of the most influential and widely used data models in computer science. Proposed by Edgar F. Codd in 1970, the model organizes data into structured tables, known as relations, which represent entities and their attributes in a logical format. Each table consists of rows and columns, where rows correspond to records and columns correspond to attributes. The relational model became the foundation for many database management systems (DBMS), such as MySQL, PostgreSQL, Oracle, and Microsoft SQL Server.
+
+The importance of the relational model lies in its simplicity, flexibility, and strong theoretical foundation. It provides a systematic approach to storing, organizing, and retrieving data efficiently while maintaining data integrity and reducing redundancy.
+2. Core Concepts of the Relational Model
+Tables (Relations)
+A table in a relational database represents a relation, consisting of tuples (rows) and attributes (columns). Each table has a unique name and stores data about a specific entity, such as 'Students' or 'Orders'.
+Attributes and Tuples
+Attributes define the properties of an entity (e.g., name, age, ID), while tuples are individual records representing instances of that entity.
+Keys
+Keys are constraints that ensure data uniqueness and consistency. The primary key uniquely identifies each record in a table, while foreign keys establish relationships between different tables.
+Relationships
+Relationships define how data in one table relates to data in another. These can be one-to-one, one-to-many, or many-to-many.
+Integrity Constraints
+Constraints such as entity integrity, referential integrity, and domain integrity maintain the correctness and reliability of data.
+3. Normalization and Constraints
+Normalization is the process of organizing data to reduce redundancy and improve data integrity. It involves decomposing larger tables into smaller, related ones and defining relationships among them. The process is typically divided into several normal forms:
+
+•	1NF (First Normal Form): Eliminates duplicate columns and ensures that each column contains atomic values.
+•	2NF (Second Normal Form): Removes partial dependencies, ensuring that non-key attributes depend entirely on the primary key.
+•	3NF (Third Normal Form): Removes transitive dependencies, ensuring that non-key attributes depend only on the primary key.
+•	BCNF (Boyce-Codd Normal Form): A stricter version of 3NF that deals with specific types of anomalies.
+
+Constraints further enhance data accuracy by defining rules that the database must follow. For example, NOT NULL ensures that a field cannot be empty, UNIQUE enforces value distinctness, and CHECK validates specific conditions for data input.
